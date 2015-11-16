@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="300dp" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Silicon Valley - it's easy to forget this area's role as California's first premium wine production region - the Santa Clara Valley. Native Americans named it 'the Valley of the Heart's Delight.' French and Italian immigrants who settled here during the Gold Rush era recognized the rich soils and Mediteranean climate as the perfect New World home for their European grape varietals.  And so it begins. "/>
+
+
+
+</RelativeLayout>

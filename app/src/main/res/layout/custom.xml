@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical">
+    <TextView
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/informationBoxHours"/>
+
+    <TextView
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/informationBoxAddress"/>
+    <TextView
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:autoLink="phone"
+        android:id="@+id/informationBoxPhone"/>
+    <TextView
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/informationBoxWebsite"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="200dp">
+    <Button
+        android:id="@+id/text"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text=" Add To Trip "
+        android:layout_weight="1"/>
+    <Button
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Ok "
+        android:layout_weight="1"/>
+    </LinearLayout>
+
+</RelativeLayout>

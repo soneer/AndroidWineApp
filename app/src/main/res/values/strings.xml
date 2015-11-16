@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AndroidWineAppMock</string>
+    <string name="title_activity_maps">Santa Clara Wine Trail</string>
+    <string-array name="places_array">
+
+    <item>Aver Family Vineyards</item>
+    <item>Casa de Fruta Winery</item>
+    <item>Castillo\'s Hillside Shire Winery</item>
+    <item>Clos LaChance Winery</item>
+    <item>Cooper-Garrod Estate Vineyards</item>
+    <item>Creekview Vineyards</item>
+    <item>Fortino Winery</item>
+    <item>Guglielmo Winery</item>
+    <item>Hecker Pass Winery</item>
+    <item>J. Lohr Vineyards and Wines</item>
+    <item>Jason-Stephens Winery</item>
+    <item>Kirigin Cellars</item>
+    <item>Lightheart Cellars</item>
+    <item>Lion Ranch Vineyards and Winery</item>
+    <item>Martin Ranch Winery</item>
+    <item>Miramar Vineyards</item>
+    <item>Morgan Hill Cellars</item>
+    <item>Rapazzini Winery</item>
+    <item>Ross Vineyards and Winery</item>
+    <item>Sarah’s Vineyard</item>
+    <item> Sa-ri Cellars</item>
+    <item>Seeker Vineyard</item>
+    <item>Solis Winery</item>
+    <item>Stefania Wine</item>
+    <item>Sunlit Oaks Winery</item>
+    <item> Sycamore Creek Vineyards and Winery</item>
+    </string-array>
+</resources>
